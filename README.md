@@ -1,4 +1,4 @@
 # create-react
 
 
-this is v0.0.1
+this is v0.0.2
