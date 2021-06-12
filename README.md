@@ -1,4 +1,4 @@
 # create-react
 
 
-this is test
+this is v1.0.0
